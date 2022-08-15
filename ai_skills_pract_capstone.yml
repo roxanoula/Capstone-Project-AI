@@ -1,0 +1,13 @@
+name: capstone
+channels:
+  - defaults
+dependencies:
+  - conda=4.9  
+  - jupyter
+  - keras
+  - tensorflow=1.14
+  - numpy=1.15.0
+  - pandas
+  - python=3.8
+  - matplotlib
+  - pillow
